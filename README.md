@@ -1,16 +1,15 @@
 # infosatc-lp-avaliativo-01
- <center><img align="right" width="400" height="200" src="Logo.png"></center>
-
+<img align="center" width="400" height="200" src="Logo.png">
 
  ![JoshuaFerreiraFaraco GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaFerreiraFaraco&show_icons=true&theme=dark)
 
-Curso de Informatica
+:computer:Curso de Informatica
 <br>
-Linguagem de Programaçao
+:computer:Linguagem de Programaçao
 <br>
-2021
+:outbox_tray:2021
 <br>
-Exercicios da primeira prova do ano.
+:books:Exercicios da primeira prova do ano.
 <br>
-Python
+:books:Python
 
