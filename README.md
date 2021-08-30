@@ -7,5 +7,5 @@
 Curso de Informatica
 Linguagem de Programaçao
 2021
-Exercicios primeira prova do ano.
+Exercicios da primeira prova do ano.
 Python
